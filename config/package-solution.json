@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "taxonomynavigation-client-side-solution",
+    "id": "f3264e70-2c48-481c-a86f-dfe783e4a908",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/taxonomynavigation.sppkg"
+  }
+}

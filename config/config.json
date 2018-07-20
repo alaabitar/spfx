@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "taxonomynavigation-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/taxonomynavigation/TaxonomynavigationWebPart.js",
+          "manifest": "./src/webparts/taxonomynavigation/TaxonomynavigationWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "TaxonomynavigationWebPartStrings": "lib/webparts/taxonomynavigation/loc/{locale}.js"
+  }
+}

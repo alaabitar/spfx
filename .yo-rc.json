@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.0",
+    "libraryName": "taxonomynavigation",
+    "libraryId": "f3264e70-2c48-481c-a86f-dfe783e4a908",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
